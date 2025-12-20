@@ -2,7 +2,9 @@
         body {
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
             background-color: #f5f2f2;
-            height: 200vh;
+            display:flex;
+                justify-content: center;
+            height: 100vh;
             direction: rtl;
         }
         html {
